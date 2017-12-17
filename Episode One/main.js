@@ -18,8 +18,5 @@ window.onload = function() {
         context.strokeStyle = 'rgb(160, 32, 240)'
         line(startX, startY, endX, endY);
 
-
-
-
     }
 };
